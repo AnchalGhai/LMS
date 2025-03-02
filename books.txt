@@ -1,4 +1,0 @@
-200,java,abid ali,Not Available
-201,Sociology,auguste comte,Not Available
-202,algorithms,james bond,Not Available
-199,C language,usama khalid,Not Available
